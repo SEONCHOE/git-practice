@@ -1,2 +1,2 @@
 # git-practice
-for practice
+activity 
